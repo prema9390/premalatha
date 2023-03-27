@@ -1,2 +1,2 @@
 # premalatha
-premalatha repo hi
+premalatha repo telugu 
